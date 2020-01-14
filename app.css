@@ -1,12 +1,15 @@
 body {
   background: #d2e1dd;
+  background-image: url('pics/bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: #333;
   font-family: "UbuntuMono Nerd Font", Regular;
   font-size: 14px;
   text-align: center; }
 
 article {
-  background: white;
   width: 760px;
   margin: -40px auto;
   padding: 40px;
